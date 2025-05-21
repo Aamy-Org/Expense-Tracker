@@ -97,3 +97,9 @@ Desktop.ini
 
 # Other
 *.pyo
+
+# Instance folder
+instance/
+#db filea
+*.sqlite3
+*.db
